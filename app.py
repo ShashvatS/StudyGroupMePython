@@ -30,5 +30,6 @@ def main(group):
     return jsonify(result)
 
 
+
 ### curl -X POST -F 'group=testtesttest" localhost:5000    
 
